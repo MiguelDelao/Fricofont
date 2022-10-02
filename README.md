@@ -12,7 +12,7 @@ This font is best used on Inkjet printers. Inkjet printers bleed ink slightly, s
 
 ## Installation
 
-After downloading this repo, install the Fricofont inside the font folder.
+After downloading this repo, install the Fricofont inside the requirements folder.
 
 Then install these dependencies:
 ```
