@@ -1,6 +1,6 @@
 
 # Fricofier
-Created for the 2022 UGA 
+Created for the 2022 UGA Makeathon
 2nd place
 
 ## Description
