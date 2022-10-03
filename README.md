@@ -1,6 +1,7 @@
 
 # Fricofier
-Created for the 2022 UGA Makeathon
+Created for the 2022 UGA 
+2nd place
 
 ## Description
 This is a custom font and document conversion tool designed to save ink. It uses small white inlines in the Courier Prime font to use less ink while still being equally readable. Fricofier was desgned to promote sustainability.
